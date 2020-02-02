@@ -7,4 +7,11 @@ tagline: >
 image: /tokyo-stories/assets/images/higashi_main.jpg
 layout: district
 ---
-This is just a test!
+<div class="columns">
+  <div class="column">
+    <h3 class="title is-3">tl;dr</h3>
+    <ul>
+      <li>Higashi is a calm and tranquil residencial area, perfectly located between Shibuya station and Ebisu station, and between Daikanyama station and Hirō station.</li>
+    </ul>
+  </div>
+</div>
