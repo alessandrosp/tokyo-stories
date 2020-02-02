@@ -23,6 +23,10 @@ body {
   color: inherit;
 }
 
+h3 {
+  margin-bottom: 6px !important;
+}
+
 .subtitle {
   font-family: 'Montserrat Alternates', sans-serif !important;
 }
