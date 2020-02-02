@@ -1,6 +1,6 @@
 body {
   background-color: #00D1B2;
-  font-family: 'Montserrat Alternates', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .container {
@@ -12,4 +12,12 @@ body {
 
 .district-card-image > img {
   max-width: 100%;
+}
+
+.subtitle {
+  font-family: 'Montserrat Alternates', sans-serif !important;
+}
+
+.title {
+  font-family: 'Montserrat Alternates', sans-serif !important;
 }
