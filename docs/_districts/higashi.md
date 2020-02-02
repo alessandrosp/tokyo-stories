@@ -32,3 +32,13 @@ src="https://www.google.com/maps/embed/v1/place?q=Higashi,+Shibuya+City,+Tokyo+1
     <p>Higashi (東) is a district of the Shibuya ward in Tokyo. Its name literally means East. Higashi is primarily a residential district with few shops, bars and restaurants; it's however comfortably located between Hirō, Ebisu and Daikanyama. The two nearest stations are Shibuya (10 minutes) and Ebisu (10 minute).</p>
   </div>
 </div>
+<!-- Section. -->
+<div class="columns">
+  <div class="column">
+    <div class="fotorama">
+      <img src="https://images.unsplash.com/photo-1510402375-50483dd636ee?ixlib=rb-1.2.1&auto=format&fit=crop&w=2331&q=80">
+      <img src="https://images.unsplash.com/photo-1526271296181-ee1fc3d94410?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80">
+    </div>
+  </div>
+</div>
+
