@@ -19,13 +19,19 @@ layout: default
     <h3 class="title is-3">Districts</h3>
     {% for district in site.districts %}
       <div class="district-card">
-        <div class="district-card-image">
-          <img src="{{ district.image }}">
-        </div>
-        <div class="district-card-description">
-          <h4 class="title is-4">{{ district.name }}</h4>
-          <p class="subtitle is-6">{{ district.ward }}</p>
-          <p class="subtitle is-6">{{ district.tagline }}</p>
+        <div class="columns">
+          <div class="column is-one-quarter">
+            <div class="district-card-image">
+              <img src="{{ district.image }}">
+            </div>
+          </div>
+          <div class="column is-three-quarters">
+            <div class="district-card-description">
+              <h4 class="title is-4">{{ district.name }}</h4>
+              <p class="subtitle is-6">{{ district.ward }}</p>
+              <p class="subtitle is-6">{{ district.tagline }}</p>
+            </div>
+          </div>
         </div>
       </div>
     {% endfor %}
