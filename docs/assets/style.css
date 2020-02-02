@@ -12,3 +12,7 @@ body {
 .district-card-image {
   width: 30%;
 }
+
+.district-card-image > img {
+  max-width: 100%;
+}
