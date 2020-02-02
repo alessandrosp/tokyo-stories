@@ -23,6 +23,12 @@ body {
   color: inherit;
 }
 
+figcaption {
+  font-size: 95%;
+  font-style: italic;
+  text-align: center;
+}
+
 h3 {
   margin-bottom: 6px !important;
 }
