@@ -36,8 +36,8 @@ src="https://www.google.com/maps/embed/v1/place?q=Higashi,+Shibuya+City,+Tokyo+1
 <div class="columns">
   <div class="column">
     <div class="fotorama" data-arrows="true" data-click="true" data-swipe="true" data-nav="thumbs">
-      <img src="https://images.unsplash.com/photo-1510402375-50483dd636ee">
-      <img src="https://images.unsplash.com/photo-1526271296181-ee1fc3d94410">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOX3g1SQRuHVEg08jTU5O5WgtdUlERSDHV5Fi2FtOn0Zi1-ci3">
+      <img src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687">
     </div>
   </div>
 </div>
