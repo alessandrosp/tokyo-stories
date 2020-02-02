@@ -9,6 +9,15 @@ body {
   padding-right: 20px;
 }
 
+.district-card {
+  float: left;
+  clear: none;
+}
+
+.district-card-description {
+  width: 70%;
+}
+
 .district-card-image {
   width: 30%;
 }
