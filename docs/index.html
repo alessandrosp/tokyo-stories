@@ -18,7 +18,7 @@ layout: default
   <div class="column">
     <h3 class="title is-3">Districts</h3>
     {% for district in site.districts %}
-      <a href="{{ district.url }}">
+      <a href="{{ district.url | prepend: site.url }}">
         <div class="district-card">
           <div class="columns">
             <div class="column is-one-quarter">
