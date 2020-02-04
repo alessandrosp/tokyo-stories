@@ -14,8 +14,8 @@ layout: district
     <div class="content">
       <ul>
         <li>Higashi is a calm and tranquil residencial area, perfectly located between Shibuya station and Ebisu station, and between Daikanyama station and Hirō station.</li>
-        <li>There are no reasons to visit Higashi as a turist. You're better off visiting the areas surrounding Shibuya stations. However, as a tourist, Higashi can be an excellent place to stay if you can find a temporary accomodation (there are not hotel in the area).</li>
-        <li>If you reside in Tokyo, Higashi can be a great place where to live. Whilst the district is pricey (as almost everywhere in Shibuka-ku), it's well-connected stations-wise and you can reach most of Shibuya on foot.</li>
+        <li>There are no reasons to visit Higashi as a turist. You're better off visiting the areas surrounding Shibuya stations. However, as a tourist, Higashi can be an excellent place to stay if you can find a temporary accomodation (there are no hotel in the area).</li>
+        <li>If you reside in Tokyo, Higashi can be a great neighborhood where to live. Whilst the district is pricey (as almost everywhere in Shibuka-ku), it's well-connected stations-wise and you can reach most of Shibuya on foot.</li>
       </ul>
     </div>
   </div>
