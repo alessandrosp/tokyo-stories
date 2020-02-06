@@ -1,5 +1,11 @@
 body {
-  background-color: #00D1B2;
+  background: repeating-linear-gradient(
+    135deg,
+    #F5F5F5,
+    #F5F5F5 6px,
+    #00D1B2 1px,
+    #00D1B2 20px
+  )
   font-family: 'Montserrat', sans-serif;
 }
 
