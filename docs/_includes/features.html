@@ -5,7 +5,7 @@
       <h3 class="title is-3">Highlights</h3>
       {% for feature in district_features %}
         <div>
-          <h4 class="title is-4">{{ feature.name }}</h4>
+          <h4 class="title is-4 feature-title">{{ feature.name }}</h4>
           {% if feature.tags %}
             <div class="tags">
               {% for tag in feature.tags %}
