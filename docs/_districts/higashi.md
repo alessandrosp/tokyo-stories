@@ -74,3 +74,4 @@ src="https://www.google.com/maps/embed/v1/place?q=Higashi,+Shibuya+City,+Tokyo+1
     </figure>
   </div>
 </div>
+{% include footer.html %}
