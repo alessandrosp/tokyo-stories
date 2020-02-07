@@ -10,5 +10,11 @@
       </div>
     {{ endif }}
     <p>{{ feature.description }}</p>
+    {{ if feature.image }}
+    <figure>
+      <img src="{{ feature.image }}">
+      <figcaption>{{ feature.caption }}</figcaption>
+    </figure>
+    {{ endif }}
   </div>
 {% endfor %}
