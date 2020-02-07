@@ -1,5 +1,5 @@
 ---
-name:  Higashi
+name: Higashi
 name_jp: 東
 ward: Shibuya
 tagline: >
