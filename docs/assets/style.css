@@ -37,6 +37,13 @@ body {
   text-decoration: none !important;
 }
 
+.feature {
+  border-left-style: solid;
+  border-left-width: 8px;
+  border-left-color: yellow;
+  padding-left: 8px;
+}
+
 .feature-title {
   margin-bottom: 16px !important; 
 }
