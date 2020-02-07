@@ -37,6 +37,10 @@ body {
   text-decoration: none !important;
 }
 
+.feature-title {
+  margin-bottom: 16px !important; 
+}
+
 figcaption {
   font-size: 95%;
   font-style: italic;
@@ -57,8 +61,4 @@ h3 {
 
 .title {
   font-family: 'Montserrat Alternates', sans-serif !important;
-}
-
-.title.is-4 {
-  margin-bottom: 16px !important; 
 }
