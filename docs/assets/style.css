@@ -18,7 +18,6 @@ body {
 
 .district-card:hover {
   background-color: #F5F5F5;
-  text-decoration: none !important;
 }
 
 .district-card-description {
@@ -31,6 +30,7 @@ body {
 
 .district-link {
   color: inherit;
+  text-decoration: none !important;
 }
 
 figcaption {
