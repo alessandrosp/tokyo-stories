@@ -52,7 +52,7 @@ h3 {
 }
 
 .tags {
-  margin-bottom: 4px; 
+  margin-bottom: 4px !important; 
 }
 
 .title {
