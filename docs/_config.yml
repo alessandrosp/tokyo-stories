@@ -5,4 +5,4 @@ collections:
   districts:
     output: true
   features:
-    outout: false
+    output: false
