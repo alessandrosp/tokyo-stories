@@ -1,7 +1,15 @@
 {% assign district_features = site.features | where: "district", [page.district] %}
 {% for feature in district_features %}
-  CANE
-  {{ feature.name }}
-  {{ page.name }}
+  <div>
+    <h4 class="title is-4">{{ feature.name }}</h4>
+    {{ if feature.tags }}
+      <div class="tags">
+        {% for tag in feature.tags %}
+        <span>{{tag}}</span>
+        {% endfor %}
+      </div>
+    {{ endif }}
+    <p>{{ feature.description }}</p>
+  </div>
 {% endfor %}
 TEST!2
