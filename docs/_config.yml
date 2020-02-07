@@ -2,7 +2,7 @@ title: Tokyo Stories
 url: http://annoys-parrot.github.io/tokyo-stories/
 
 collections:
-  districts:
-    output: true
-  features:
-    output: false
+  - districts:
+      output: true
+  - features:
+      output: false
