@@ -74,4 +74,11 @@ src="https://www.google.com/maps/embed/v1/place?q=Higashi,+Shibuya+City,+Tokyo+1
     </figure>
   </div>
 </div>
-{% include features.html %}
+<!-- Section. -->
+<div class="columns">
+  <div class="column">
+    <h3 class="title is-3">Features</h3>
+    {% include features.html %}
+  </div>
+</div>
+
