@@ -1,4 +1,4 @@
-{% assign district_features = site.features | where: "district", [page.district] %}
+{% assign district_features = site.features | where: "district", page.district %}
 {% if district_features %}
   <div class="columns">
     <div class="column">
