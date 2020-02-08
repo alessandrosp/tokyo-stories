@@ -1,6 +1,5 @@
 {% assign district_features = site.features | where: "district", page.name %}
-{{ page.name }}
-{% if district_features %}
+{% if district_features.size > 0 %}
   <div class="columns">
     <div class="column">
       <h3 class="title is-3">Highlights</h3>
