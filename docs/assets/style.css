@@ -1,3 +1,7 @@
+.backdrop {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
 body {
   background: repeating-linear-gradient(135deg, #F5F5F5, #F5F5F5 6px, #00D1B2 1px, #00D1B2 20px);
   font-family: 'Montserrat', sans-serif;
