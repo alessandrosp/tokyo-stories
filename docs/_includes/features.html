@@ -1,5 +1,5 @@
 {% assign district_features = site.features | where: "district", page.district %}
-{{ page.district }}
+{{ include.district }}
 {% if district_features %}
   <div class="columns">
     <div class="column">
