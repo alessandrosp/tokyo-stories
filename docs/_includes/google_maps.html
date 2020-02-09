@@ -1,6 +1,8 @@
-<div class="columns">
-  <div class="column">
-    <iframe width="100%" height="450" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q={{ include.query }}&key=AIzaSyDx3pE_t6DwHcdC8Hdga0dTSHWNeqPA5cI" allowfullscreen></iframe>
+{% if include.query %}
+  <div class="columns">
+    <div class="column">
+      <iframe width="100%" height="450" frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/place?q={{ include.query }}&key=AIzaSyDx3pE_t6DwHcdC8Hdga0dTSHWNeqPA5cI" allowfullscreen></iframe>
+    </div>
   </div>
-</div>
+{% endif %}
