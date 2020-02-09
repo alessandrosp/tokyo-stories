@@ -8,4 +8,12 @@ layout: default
     <p class="subtitle is-3">{{ page.ward }}</p>
   </div>
 </div>
+<!-- Section: tldr. -->
+{% include tldr.html tldr=page.tldr %}
+<!-- Section: Google Maps. -->
+{% include google_maps.html query=page.maps_query %}
+<!-- Section: Summary. -->
+{% include summary.html summary=page.summary %}
+<!-- Section: Features. -->
+{% include features.html %}
 {{ content }}
