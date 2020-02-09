@@ -1,0 +1,14 @@
+{% if include.tldr %}
+  <div class="columns">
+    <div class="column">
+      <h3 class="title is-3">tl;dr</h3>
+      <div class="content">
+        <ul>
+          {% for line in include.tldr %}
+            <li>{{ line }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+{% endif %}
