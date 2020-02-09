@@ -12,11 +12,3 @@ summary: >
   Aoyama (青山) is one of the wealthiest neighborhoods of Tokyo, located in the northwest portion of Minato Ward. The area is well known for its international fashion houses, cafes and restaurants. Minami-Aoyama (南青山) or <i>South Aoyama</i> refers to the area to the south of Aoyama-Dori and extends to the northern edge of Roppongi, Azabu and Hiroo.
 layout: district
 ---
-<!-- Section: tldr. -->
-{% include tldr.html tldr=page.tldr %}
-<!-- Section: Google Maps. -->
-{% include google_maps.html query=page.maps_query %}
-<!-- Section: Summary. -->
-{% include summary.html summary=page.summary %}
-<!-- Section: Features. -->
-{% include features.html %}
